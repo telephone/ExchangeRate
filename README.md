@@ -13,7 +13,7 @@ ExchangeRate is simple class aimed at parsing exchange rates from both Yahoo! Fi
 
 ### Usage
 
-Refer to example.php localed within the examples folder
+Refer to example.php located within the examples folder
 
 ## License
 
